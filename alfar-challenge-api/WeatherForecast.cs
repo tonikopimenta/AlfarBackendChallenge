@@ -1,4 +1,4 @@
-namespace TodoApi;
+namespace alfar_challenge_api;
 
 public class WeatherForecast
 {

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace TodoApi.Controllers;
+namespace alfar_challenge_api.Controllers;
 
 [ApiController]
 [Route("[controller]")]
